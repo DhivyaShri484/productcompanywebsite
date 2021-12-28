@@ -470,20 +470,20 @@ body {
 
 ### Home Page:
 
-![output](./homepage.png)
+![output](./home.png)
 
 ### Product Page:
 
-![output](./productpage1.png)
-![output](./productpage2.png)
+![output](./product1.png)
+![output](./product2.png)
 
 ### People Page:
 
-![output](./peoplepage.png)
+![output](./people.png)
 
 ### Contact Us Page:
 
-![output](./contactuspage.png)
+![output](./contactus.png)
 
 ## Result:
 
